@@ -1,4 +1,4 @@
-# Resume
+# Megan Lucado, RHIA, CPC, CIRCC, CDEO
 ## Personal Summary
 Motivated, hard-working individual, currently a Radiology medical coder at Wellstar MCG Health and a student at Eastern University finishing my Master of Science in Data Science. I am eager to utilize my programming, critical thinking, and problem-solving skills to expand my skillset in the data sector. I am very self-driven, always on time, and detail oriented.
 
