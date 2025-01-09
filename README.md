@@ -1,20 +1,21 @@
 # Megan Lucado, RHIA, CPC, CIRCC, CDEO
 ## Personal Summary
-Motivated, hard-working individual, currently a Radiology medical coder at Wellstar MCG Health and a student at Eastern University finishing my Master of Science in Data Science. I am eager to utilize my programming, critical thinking, and problem-solving skills to expand my skillset in the data sector. I am very self-driven, always on time, and detail oriented.
+I am a motivated and hard-working individual, currently completing my Master of Science in Data Science at Eastern University with an expected graduation in May 2025. Additionally, I work as a Radiology Medical Coder at Wellstar MCG Health. I am eager to utilize my programming, critical thinking, and problem-solving skills to expand my skillset in the data sector. I am very self-driven, always on time, and detail oriented.
 
 ## Skills
--	**Programming/Visualization:** Python, R, SQL, ggplot, Tableau, Excel
--	**Analytical Techniques:** statistical analysis, regression analysis
+-	**Programming/Visualization:** Python, Scikit-learn, R, SQL, Git, ggplot, Tableau, Excel
+-	**Analytical Techniques:** machine learning, statistical analysis, regression analysis
 -	**Software:** SAS, Epic, 3M Encoder/3M Reference, Optum 360, FinThrive, IDX Smart Term & Claims Manager, Imagine, Clario, Optum, PowerScribe, Cerner
--	**Domain Knowledge:** CMS Policies (LCDs, NCDs, NCCI, MUE, etc.), HIPAA and Patient Confidentiality, Clinical Documentation, Radiology Coding Guidelines (ICD-10-CM, CPT, HCPCS Level II)
+-	**Domain Knowledge:** Government Contracting, CMS Policies (LCDs, NCDs, NCCI, MUE, etc.), HIPAA and Patient Confidentiality, Clinical Documentation, Radiology Coding Guidelines (ICD-10-CM, CPT, HCPCS Level II)
 -	**Soft Skills:** set priorities and meet deadlines, follow all safety rules and regulations, excellent in communicating orally and in writing
 
 ## Experience
 **Radiology Medical Coder (Remote) @ Wellstar MCG Health (_November 2023 – Current_)**
--	Investigated and interpreted claims, successfully resolving disputes and improving reimbursement outcomes
+-	Reviewed and assigned accurate CPT and ICD-10-CM codes for a wide range of Interventional Radiology (IR) procedures, including embolization, thrombolysis, thrombectomy, etc., ensuring compliance with coding standards and LCD/NCD policies, resulting in improved claims accuracy and timely reimbursements
 -	Collaborated with providers on coding guidelines, enhancing documentation integrity and achieving an increase in coding accuracy
 -	Analyzed claim errors to secure appropriate payment of denied claims, improving reimbursement outcomes
--	Assigned proper procedure charges along with proper ICD-10-CM diagnosis codes
+-	Investigated and interpreted claims, successfully resolving disputes and improving reimbursement outcomes
+
 
 **National RCM Radiology Coding Educator (Remote) @ Radiology Partners (_March 2022 – September 2023_)**
 -	Conducted quality assurance (QA) audits on coding vendors, ensuring accuracy both before and after claims submission, resulting in improved compliance and reduced error rates
@@ -23,15 +24,20 @@ Motivated, hard-working individual, currently a Radiology medical coder at Wells
 -	Oversaw the coding education & addendum request process on a national scale, streamlining operations and enhancing efficiency, which resulted in more timely updates and consistent application of coding standards
 -	Analyzed and interpreted Medicare RAC audits to identify discrepancies, effectively resolving issues, which minimized financial risks and ensured compliance
 
+
 **Senior Medical Coder (Remote)	@ AU Health (_October 2019 – March 2022_)**
--	Investigated and interpreted claims, successfully resolving disputes and improving reimbursement outcomes
+-	Reviewed and assigned accurate CPT and ICD-10-CM codes for a wide range of Interventional Radiology (IR) procedures, including embolization, thrombolysis, thrombectomy, etc., ensuring compliance with coding standards and LCD/NCD policies, resulting in improved claims accuracy and timely reimbursements
 -	Collaborated with providers on coding guidelines, enhancing documentation integrity and achieving an increase in coding accuracy
 -	Analyzed claim errors to secure appropriate payment of denied claims, improving reimbursement outcomes
--	Assigned proper procedure charges along with proper ICD-10-CM diagnosis codes
+-	Investigated and interpreted claims, successfully resolving disputes and improving reimbursement outcomes
 
 ## Projects 
 > _These projects reside in my private repository to uphold academic policies as they were developed as part of my college coursework_
-  
+
+**Early Identification of At-Risk Students Through Predictive Modeling | _December 2024_**
+- Developed and evaluated predictive models using Linear, Lasso, and Support Vector Machine Regression to forecast student performance, achieving 78% accuracy and a 2.13-point margin of error. Preprocessed data via pipelines and feature engineering, combining correlated variables and imputing missing values. Optimized models for performance and scalability, enabling early identification of at-risk students. Documented methodologies, results, and actionable insights to support production implementation, improving academic intervention strategies through advanced machine learning techniques.
+- **_Technologies Used:_** Python (including libraries such as Scikit-learn, Pandas, NumPy, Matplotlib)
+
 **CMS BRFSS Logistic Regression Model	| _October 2024_**
 - Used CMS’s 2021 Behavioral Risk Factor Surveillance System (BRFSS) data to develop a logistic regression model that predicts the likelihood of depressive disorder based on gender. Males were the reference group, and the results show that females have 127.8% higher odds of having a depressive disorder compared to males (OR = 2.28).
 - **_Technologies Used:_** R (including packages such as dplyr, ggplot2, lsr, readr)
